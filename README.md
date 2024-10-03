@@ -1,6 +1,7 @@
 Install              - Node.js, Visual Studio, Cypress
 Node.js Path Setup   - Properties> Advance System Settings>Environment Variable> System Variable+ Path+ Edit> New> add node file location
 
+
 npm init             - Create Package.json file
 Install Cypress      - npm install cypress --save-dev
 npx cypress open     - open cypress app
